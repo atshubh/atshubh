@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Shubh. I am a developer 👋
 
 <!--
 **proshubh/proshubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
